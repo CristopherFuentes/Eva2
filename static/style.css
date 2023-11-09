@@ -1,0 +1,5 @@
+/* Estilos para las filas pares con color de fondo #f2f2f210 */
+.table tr:nth-child(even) {
+    background-color: #f2f2f210;
+  }
+  
